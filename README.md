@@ -14,13 +14,20 @@ Before running the tool, you need to prepare:
 
 <sub>Creating Universal Data Link files is very easy. The quickest way - on Windows - is to create an empty text document, change extension from `txt` to `udl` and double-click on it. You will be presented with a GUI that should be self explanatory. For more info, please check the link above.</sub>
 
-Then, on the left side and right sides, select the UDL file and table you need to compare. You will be presented with the differences.
-Here is an example:
+Then, on the left side and right sides, select your UDL files and the tables you want to compare. You will be presented with the differences.
+
+In the example below, the comparison runs for the `DocPaper` tables from two databases (`GoldDB.url` and `GoldLaDB.udl`).
 ![screenshoot](https://github.com/ruisoftware/DBDataCompare/blob/master/DBDataCompare.png)
+
+You can see that there are differences in the Key for `Ticket` and that the `GoldLaDB.DocPaper` table contains an extra record.
 
 <br>
 ### Why reinventing the wheel?
 Well, I wrote this back in 2002 in one afternoon, using the beloved Delphi 7 at the time.
 I couldn't find any tool quickly, so I decided to write my own.
-As I said, this was done in less than 4 hours, so the tool is pretty raw in terms of GUI appearance, but is beautifully small.
+As I said, this was done in less than 4 hours, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.
+
+<br>
+### Future plans?
+Nope. I no longer work with Delphi and just decided to create this repository to post some of my old code, instead of being lost in some forgotten hard drive. Hopefully might help other users.
 
