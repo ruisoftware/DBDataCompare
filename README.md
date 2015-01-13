@@ -7,7 +7,11 @@ Those two tables can be from the same database or from two distinct databases. T
 Only compares table data.
 
 <br>
-### How to use it?
+### How to run it?
+Simply run the included binary (prjDataCompare.exe) or compile the sources.
+
+<br>
+### How it works?
 Before running the tool, you need to prepare either
  * One [UDL](http://msdn.microsoft.com/en-us/library/e38h511e%28v=vs.71%29.aspx) file pointing to the database you want to connect, in case you need to compare tables from the **same database**.<br>
  or
