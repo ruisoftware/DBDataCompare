@@ -8,7 +8,7 @@ Only compares table data.
 
 <br>
 ### How to run it?
-Simply run the included binary (prjDataCompare.exe) or compile the sources.
+Simply run the included binary `prjDataCompare.exe` or compile the sources.
 
 <br>
 ### How it works?
