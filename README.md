@@ -16,16 +16,16 @@ Before running the tool, you need to prepare:
 
 Then, on the left side and right sides, select your UDL files and the tables you want to compare. You will be presented with the differences.
 
-In the example below, the comparison runs for the `DocPaper` tables from two databases (`GoldDB.url` and `GoldLaDB.udl`).
+In the example below, we are checking the data differences on the `DocPaper` table from two databases (`GoldDB.url` and `GoldLaDB.udl`).
 ![screenshoot](https://github.com/ruisoftware/DBDataCompare/blob/master/DBDataCompare.png)
 
-You can see that there are differences in the Key for `Ticket` and that the `GoldLaDB.DocPaper` table contains an extra record.
+You can see that they differ in the Key for `Ticket` and that the `GoldLaDB.DocPaper` table contains an extra record.
 
 <br>
 ### Why reinventing the wheel?
 Well, I wrote this back in 2002 in one afternoon, using the beloved Delphi 7 at the time.
 I couldn't find any tool quickly, so I decided to write my own.
-As I said, this was done in less than 4 hours, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.
+As I said, this was done in less than 6 hours, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.
 
 <br>
 ### Future plans?
