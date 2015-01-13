@@ -26,9 +26,12 @@ You can see that they differ in the Key for `Ticket` and that the `GoldLaDB.DocP
 ### Why reinventing the wheel?
 Well, I wrote this back in 2002 in one afternoon, using the beloved Delphi 7 at the time.
 I couldn't find any tool quickly, so I decided to write my own.<br>
-As I said, this was done just to satisfy my needs back then, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.
+This was done just to satisfy my needs back then, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.<br>
+
 
 <br>
 ### Future plans?
-Nope. I no longer work with Delphi and just decided to create this repository to post some of my old code, instead of being lost in some forgotten hard drive. Hopefully might help other users.
+Nope. I no longer work with Delphi and just decided to create this repository to post some of my old code, instead of being lost in some forgotten hard drive.<br>
+Nowadays, this kind of functionality is present in almost every IDE, so I don't have any reason or motivation to improve this tool.<br>
+Nevertheless, maybe some users might find this tool interesting.
 
