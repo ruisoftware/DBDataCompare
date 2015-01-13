@@ -17,7 +17,7 @@ Before running the tool, you need to prepare either
 
 Then, on the left side and right sides, select your UDL files and the tables you want to compare. You will be presented with the differences.
 
-In the example below, we are checking the data differences on the `DocPaper` table from two databases (`GoldDB.url` and `GoldLaDB.udl`).
+In the example below, we are checking the data differences on the `DocPaper` table from two databases (`GoldDB.udl` and `GoldLaDB.udl`).<br>
 ![screenshoot](https://github.com/ruisoftware/DBDataCompare/blob/master/DBDataCompare.png)
 
 You can see that they differ in the Key for `Ticket` and that the `GoldLaDB.DocPaper` table contains an extra record.
