@@ -25,7 +25,7 @@ You can see that they differ in the Key for `Ticket` and that the `GoldLaDB.DocP
 <br>
 ### Why reinventing the wheel?
 Well, I wrote this back in 2002 in one afternoon, using the beloved Delphi 7 at the time.
-I couldn't find any tool quickly, so I decided to write my own.<br>
+I couldn't find any free tool quickly, so I decided to write my own.<br>
 This was done just to satisfy my needs back then, so the tool is pretty raw in terms of GUI appearance and performance, but is beautifully small.<br>
 
 
