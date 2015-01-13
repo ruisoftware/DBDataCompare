@@ -33,5 +33,5 @@ This was done just to satisfy my needs back then, so the tool is pretty raw in t
 ### Future plans?
 Nope. I no longer work with Delphi and just decided to create this repository to post some of my old code, instead of being lost in some forgotten hard drive.<br>
 Nowadays, this kind of functionality is present in almost every IDE, so I don't have any reason or motivation to improve this tool.<br>
-Nevertheless, maybe some users might find this tool interesting.
+Nevertheless, maybe some users might find this project interesting.
 
